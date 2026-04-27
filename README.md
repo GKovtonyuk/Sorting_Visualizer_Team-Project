@@ -1,5 +1,41 @@
 # Sorting Visualizer
 
+## 📂 Project Structure
+
+```text
+sorting-visualizer/
+│
+├── main.py              # Main file (visualization)
+├── algorithms.py        # List of algorithms
+├── sorts/               # Sorting algorithms
+└── report/              # Project images and screenshots
+```
+## How to Add Your Own Algorithm
+
+** IMPORTANT:** To preserve the project architecture, **do not modify** the `main.py` and `algorithms.py` files. The system automatically imports new files from the `sorts` folder.
+
+### Steps:
+
+1. Create a Fork of the repository.
+2. Clone your fork to your computer.
+3. Navigate to the project folder.
+4. Create a new branch.
+5. In the sorts/ folder, create a new .py file.
+6. Implement your algorithm in generator format.
+
+### Final Steps:
+
+7. Add your changes.
+8. Make a commit.
+9. Push your changes.
+10. Create a Pull Request on GitHub.
+
+---
+
+
+
+
+
 ## 📂 Структура проєкту
 
 ```text
