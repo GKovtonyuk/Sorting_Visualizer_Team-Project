@@ -10,6 +10,7 @@ sorting-visualizer/
 ├── sorts/               # Sorting algorithms
 └── report/              # Project images and screenshots
 ```
+---
 ## How to Add Your Own Algorithm
 
 **IMPORTANT:** To preserve the project architecture, **do not modify** the `main.py` and `algorithms.py` files. The system automatically imports new files from the `sorts` folder.
@@ -31,6 +32,9 @@ sorting-visualizer/
 10. Create a Pull Request on GitHub.
 
 ---
+
+
+
 
 
 
