@@ -7,6 +7,6 @@ def insertion_sort(arr):
         j = i-1
         while j >= 0 and arr[j] > key:
             yield j, i, i, len(arr) - 1
-            arr[j + 1] = arr[j]
+            arr[j+1] = arr[j]
             j -= 1
         arr[j+1] = key
